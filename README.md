@@ -2,7 +2,10 @@
 Load, clean and explore a dataset of your choice with Python
 
 # Context
-This is an updated version of the avocado dataset originally compiled from the Hass Avocado Board (or HAB, for short) data and published on Kaggle by Justin Kiggins in 2018. The dataset features historical data on avocado prices and sales volume. My goal is determine price difference of conventional vs organic types by season. 
+This is an updated version of the avocado dataset originally compiled from the Hass Avocado Board (or HAB, for short) data and published on Kaggle by Justin Kiggins in 2018. The dataset features historical data on avocado unit prices and sales volume. 
+
+# My goal 
+When I go to the grocery store and look at the avocado selection I wonder if the unit price of avocados fluctuate with the seasons. Moreover, I am interested to see the unit price difference between organic and non-organic Hass avocado purchased.
 
 # Content
 This updated version contains data form January 2015 up to July 2020. The updated dataset was created by downloading the data for the year 2020. To download some new data, scroll down to the bottom of the section "Totals by PLU" and click the "Download 2020 Weekly Retail Volume & Price Report" button. 
