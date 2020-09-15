@@ -31,6 +31,7 @@ Some relevant columns in the dataset:
     4046 - Total number of avocados with PLU 4046 sold
     4225 - Total number of avocados with PLU 4225 sold
     4770 - Total number of avocados with PLU 4770 sold
+    season - fall, winter, spring and summer
 
 # Acknowledgements
 
