@@ -7,7 +7,8 @@ Load, clean and explore a dataset of your choice with Python
 When I go to the grocery store and look at the avocado selection I wonder if the unit price of avocados fluctuates with the seasons. Moreover, I am interested to see the unit price difference between organic and non-organic Hass avocados purchased.
 
 # Method
-This is an updated version of the avocado dataset originally compiled from the Hass Avocado Board (or HAB, for short) data and published on Kaggle by Justin Kiggins in 2018. The 'content' features historical data on avocado unit prices and sales volume. 
+This is an updated version of the avocado dataset originally compiled from the Hass Avocado Board (or HAB, for short) data and published on Kaggle by Justin Kiggins in 2018. The data features historical data on avocado unit prices and sales volume, per content.
+
 # Results
 
 # Conclusion
