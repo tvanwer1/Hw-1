@@ -7,11 +7,16 @@ Load, clean and explore a dataset of your choice with Python
 When I go to the grocery store and look at the avocado selection I wonder if the unit price of avocados fluctuates with the seasons. Moreover, I am interested to see the unit price difference between organic and non-organic Hass avocados purchased.
 
 # Method
-This is an updated version of the avocado dataset originally compiled from the Hass Avocado Board (or HAB, for short) data and published on Kaggle by Justin Kiggins in 2018 and updated again by Timofei Kornev in May 2020. The data features historical data on avocado unit prices and sales volume.
+This is an updated version of the avocado dataset originally compiled from the Hass Avocado Board (or HAB, for short) data and published on Kaggle by Justin Kiggins in 2018 and updated again by Timofei Kornev in May 2020 and myself September 2020. The data features historical data on avocado unit prices and sales volume in units.
 
-1. The updated dataset was created by downloading the data for the year 2020.
+1. The updated dataset was created by downloading the data ffrom Timofei Kornev kaggle .csv
 2. To download some new data, scroll down to the bottom of the section "Totals by PLU" and click the "Download 2020 Weekly Retail Volume & Price Report" button.
-3. 
+3. The two .csv files were concatenated into data frame = all_data.csv
+4. Data frame was cleaned: changes Average Price and Total Volume to_numeric; filtering rows to only Total U.S. data values
+5. Season column was added to data to be able to use .groupby
+6. Data frame was grouped by Season to show the mean of AveragePrice and sum of Total Volume for all avocados
+7. Data frame was additionally grouped by avocado type to see the mean average price between organic and conventional
+8. Box and whiskers done using matplotplib.pyplot package to compare step 7
 
 # Results
 |Season|Average Price of all avocados|Total Volume of all avocados|
@@ -21,11 +26,13 @@ This is an updated version of the avocado dataset originally compiled from the H
 |summer|$1.45|4.510399e+09|
 |winter|$1.29|5.658387e+09|
 
+![](Visuals/season_a.png)
+
 ![Organic vs Conventional Price Comparison](Visuals/PricebyType.png)
 
 # Conclusion
 
-This data set highlights that the consumer will pay appoximately 50% more for organic Hass avocados. Additional twice as many avocados are purchased in the winter and spring months when the average unit price is the lowest.  Lastly, if you are in the store and organic avocados are less than 50% of the price of conventional avocados then that would be a deal!  
+This data set highlights that the consumer will pay more in the fall months. As well as appoximately 50% more for organic Hass avocados. Additional twice as many avocados are purchased in the winter and spring months when the average unit price is the lowest.  Lastly, if you are in the store and organic avocados are less than 50% of the price of conventional avocados then that would be a deal!  
 
 
 # Content
