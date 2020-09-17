@@ -56,3 +56,4 @@ Many thanks to the Hass Avocado Board for sharing this data!!
 
 [Hass Avocado Board](http://www.hassavocadoboard.com/retail/volume-and-price-data)
 
+Thank you to Justin Kiggins and Timofei Kornev for getting me started with the avocado data sets
