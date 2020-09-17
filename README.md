@@ -15,6 +15,12 @@ This is an updated version of the avocado dataset originally compiled from the H
 
 # Results
 
+![Average Price By Type](PricebyType.png)
+
+
+![Total Volume by Season](season_a.png)
+
+
 # Conclusion
 
 # Content
@@ -36,5 +42,5 @@ Some relevant columns in the dataset:
 
 Many thanks to the Hass Avocado Board for sharing this data!!
 
-http://www.hassavocadoboard.com/retail/volume-and-price-data
+[Hass Avocado Board](http://www.hassavocadoboard.com/retail/volume-and-price-data)
 
