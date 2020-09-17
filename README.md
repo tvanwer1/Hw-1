@@ -14,18 +14,18 @@ This is an updated version of the avocado dataset originally compiled from the H
 3. 
 
 # Results
-|Season|Average Price|Total Volume|
+|Season|Average Price of all avocados|Total Volume of all avocados|
 |:------:|-------:|--------:|
 |fall|1.54|2.959226e+09|
 |spring|1.35|6.315596e+09|
 |summer|1.45|4.510399e+09|
 |winter|1.29|5.658387e+09|
 
-![](Visuals/PricebyType.png)
+![Organic vs Conventional Price Comparison](Visuals/PricebyType.png)
 
 # Conclusion
 
-This data set highlights that the consumer will pay appoximately %50 more for organic Hass avocados. Additional twice as many avocados are purchased in the winter and spring months when the average unit price is the lowest.  Lastly, if you are in the store and organic avocados are less than 50% of the price of conventional avocados then that would be a deal!  
+This data set highlights that the consumer will pay appoximately 50% more for organic Hass avocados. Additional twice as many avocados are purchased in the winter and spring months when the average unit price is the lowest.  Lastly, if you are in the store and organic avocados are less than 50% of the price of conventional avocados then that would be a deal!  
 
 
 # Content
