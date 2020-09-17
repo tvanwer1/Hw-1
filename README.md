@@ -15,10 +15,9 @@ This is an updated version of the avocado dataset originally compiled from the H
 
 # Results
 
-![](Visual/season_a.png)
-
-
 ![](Visuals/PricebyType.png)
+
+![](Visuals/season_a.png)
 
 # Conclusion
 
