@@ -4,7 +4,7 @@
 Load, clean and explore a dataset of your choice with Python
 
 # My goal 
-When I go to the grocery store and look at the avocado selection I wonder if the unit price of avocados fluctuates with the seasons. Moreover, I am interested to see the unit price difference between organic and non-organic Hass avocados purchased.
+When I go to the grocery store and look at the avocado selection, I wonder if the unit price of avocados fluctuates with the seasons. Moreover, I am interested to see the unit price difference between organic and non-organic Hass avocados purchased.
 
 # Method
 This is an updated version of the avocado dataset originally compiled from the Hass Avocado Board (or HAB, for short) data and published on Kaggle by Justin Kiggins in 2018 and updated again by Timofei Kornev in May 2020 and myself in September 2020. The data features historical data on avocado unit prices and sales volume in units.
@@ -32,7 +32,7 @@ This is an updated version of the avocado dataset originally compiled from the H
 
 # Conclusion
 
-This data set highlights that the consumer will pay more in the fall months. As well as appoximately 50% more for organic Hass avocados. Additional twice as many avocados are purchased in the winter and spring months when the average unit price is the lowest.  Lastly, if you are in the store and organic avocados are less than 50% of the price of conventional avocados then that would be a deal!  
+This data set highlights that the consumer will pay more in the fall months for all Hass avocados. As well as pay appoximately 50% more for organic Hass avocados. Additional twice as many avocados are purchased in the winter and spring months when the average unit price is the lowest.  Lastly, if you are in the store and organic avocados are less than 50% of the price of conventional avocados then that would be a deal!  
 
 
 # Content
