@@ -19,7 +19,7 @@ This is an updated version of the avocado dataset originally compiled from the H
 8. Box and whiskers done using matplotplib.pyplot package to compare step 7
 
 # Results
-|Season|Average Price of all avocados|Total Volume of all avocados|
+|Season|Average Price|Total Volume of all avocados|
 |:------:|:-------|--------:|
 |fall|$1.54|2,959,226,000|
 |spring|$1.35|6,315,596,000|
