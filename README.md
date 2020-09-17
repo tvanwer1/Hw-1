@@ -21,10 +21,10 @@ This is an updated version of the avocado dataset originally compiled from the H
 # Results
 |Season|Average Price of all avocados|Total Volume of all avocados|
 |:------:|:-------|--------:|
-|fall|$1.54|2.959226e+09|
-|spring|$1.35|6.315596e+09|
-|summer|$1.45|4.510399e+09|
-|winter|$1.29|5.658387e+09|
+|fall|$1.54|2,959,226,000|
+|spring|$1.35|6,315,596,000|
+|summer|$1.45|4,510,399,000|
+|winter|$1.29|5,658,387,000|
 
 ![](Visuals/season_a.png)
 
