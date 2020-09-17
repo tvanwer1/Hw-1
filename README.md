@@ -15,10 +15,10 @@ This is an updated version of the avocado dataset originally compiled from the H
 
 # Results
 
-![Average Price By Type](PricebyType.png)
+![Average Price By Type](https://github.com/tvanwer1/Hw-1/tree/master/Visuals/PricebyType.png)
 
 
-![Total Volume by Season](season_a.png)
+![Total Volume by Season](https://github.com/tvanwer1/Hw-1/tree/master/Visuals/season_a.png)
 
 
 # Conclusion
